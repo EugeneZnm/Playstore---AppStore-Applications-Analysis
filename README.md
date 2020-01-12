@@ -5,6 +5,11 @@ economic standpoint. The target applications to be built are largely free to to 
 This means that the revenue for any given application is mostly influenced by the number of users that use an application. 
 The goal of the poject is to analyse data to help developers understand what kinds of appls are likely to attract more users.
 
+## Language Used: 
+- Python
+## Environment
+- Jupyter Notebook
+
 ## Opening and Exploring the Data
 
 As of September 2018, there were approximately 2 million iOS apps available on the App Store, and 2.1 million Android apps on Google Play.
